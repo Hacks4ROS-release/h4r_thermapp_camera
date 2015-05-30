@@ -2,6 +2,12 @@
 Changelog for package h4r_thermapp_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2015-05-30)
+------------------
+* add source code of ThermAppCam
+* remove submodule
+* Contributors: Christian Holl
+
 0.0.2 (2015-05-28)
 ------------------
 * fix exec to run depend
